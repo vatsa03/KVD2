@@ -13,7 +13,7 @@ pool:
 steps:
 - task: CmdLine@2
   inputs:
-    script: |
-      python a.py
+    script: python a.py
+      
       
       
